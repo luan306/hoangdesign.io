@@ -5,10 +5,10 @@
     --text-color: #333;
     --star-gold-color: #FFCE3E;
     --border-color: #bdbdbd;
-    /* --navbar-height: 34px;
-    --header-height: 150px;
-    --header-sort-bar-height: 46px;
-    --header-with-search-height: calc(var(--header-height) - var(--navbar-height)); */
+    --navbar-height: 34px;
+    --header-height: 125px;
+    --header-sort-bar-height: 45px;
+    --header-with-search-height: calc(var(--header-height) - var(--navbar-height));
 }
 
 * {
